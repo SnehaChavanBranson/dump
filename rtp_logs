@@ -1,0 +1,372 @@
+branson@ineicp-as-16:~/Desktop/setup_vid/complete_Setup/HMI_SC/Bug_Veri_RTP_13_11_24$ sudo ./RTP_LINUX
+ -----------FillWeldResultData ---------------
+DB query fail: 1
+Get User Privilege Details from database failed
+FillUserPrivilegeInfo failure
+DB query fail: 1
+Failed to read Ldap BaseDN data
+DB query fail: 1
+Failed to read Ldap Host data
+DB query fail: 1
+Failed to read Ldap Port data
+DB query fail: 1
+Failed to read Ldap Manager DN data
+DB query fail: 1
+Failed to read Ldap Manager DN Password data
+FillLdapConfiguration failure
+DB query fail: 1
+Failed to read automation mode information
+GetBransonServiceAutomationBenchTopStatus failure
+IsReferenceWeldSignatureTableEmpty =  tr
+checkIfWeldResultIndexAvailable =  1
+DB query fail: 1
+USB device data read failed
+FillUSBAuthenticationData failure
+DB query fail: 1
+Reading NFS Configuration failed
+FillNfsConfigData failure
+DB query fail: 1
+Failed to read the Opcua PubSub IP Configuration
+FillOpcuaConfigurationData fail common db
+Unsupported Actuator
+Server started on 8082
+
+BIOError:R:BIO_do_accept
+Decryption of JSON successful
+Hash verification successful.
+Default Machine serial number
+HMI_Type not configured
+Failed to validate JSON.
+Starting config install from Recovery
+Hash verification successful.
+Default Machine serial number
+HMI_Type not configured
+Recovery files validation error
+Starting config install from USB
+USB config Install Error 2
+Unsupported configuration settings found in config file
+DSP Version: 0.0.0.Unknown
+
+PWRS_T: PCPowerup::Enter
+ACTSocket_T:Socket create:OK
+EmrsnSocket:Bind:PortID:0:1601
+ACTSocket_T:socket listen:OK
+TCP/IP Bind failed..
+
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	AccessControl: Unconfigured AccessControl. Users have all permissions.
+[2025-08-12 14:34:09.083 (UTC+0550)] info/server	AccessControl: Anonymous login is enabled
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	Username/Password configured, but no encrypting SecurityPolicy. This can leak credentials on the network.
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/userland	AcceptAll Certificate Verification. Any remote certificate will be accepted.
+[2025-08-12 14:34:09.083 (UTC+0550)] info/session	SecureChannel 0 | Session g=00000001-0000-0000-0000-000000000000 | AddNode: Node could not add the new node to the nodestore with error code BadNodeIdExists
+[2025-08-12 14:34:09.083 (UTC+0550)] info/session	SecureChannel 0 | Session g=00000001-0000-0000-0000-000000000000 | AddNode: Node could not add the new node to the nodestore with error code BadNodeIdExists
+[2025-08-12 14:34:09.083 (UTC+0550)] info/session	SecureChannel 0 | Session g=00000001-0000-0000-0000-000000000000 | AddNode: Node could not add the new node to the nodestore with error code BadNodeIdExists
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	AccessControl: Unconfigured AccessControl. Users have all permissions.
+[2025-08-12 14:34:09.083 (UTC+0550)] info/server	AccessControl: Anonymous login is enabled
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	Username/Password configured, but no encrypting SecurityPolicy. This can leak credentials on the network.
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/userland	AcceptAll Certificate Verification. Any remote certificate will be accepted.
+[2025-08-12 14:34:09.083 (UTC+0550)] info/userland	PubSub channel requested
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	PubSub Connection is created for a unicast address (IPv4)
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.083 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/server	PubSub meta data generation. Reading ArrayDimension failed.
+[2025-08-12 14:34:09.084 (UTC+0550)] info/network	TCP network layer listening on opc.tcp://ineicp-as-16:4840/
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/network	Error binding a server socket: Address already in use
+[2025-08-12 14:34:09.084 (UTC+0550)] warn/network	Error binding a server socket: Address already in use
+Unsupported Actuator
+Waiting for start request
+Starting WDS...
+Comm/WDS HMI config not supported
+ALARM_T : EnterAlarmEvent: ALARM_SC
+Resetting horn scan recipe to default
+Resetting seek recipe to default
+Resetting test recipe to default
+Device DateTime: 2025/08/12 14:34:09
+Power Up command received
+CTRL_T: PowerUpAce::Enter
+Seek recipe saved
+�$
+�$
+�$
+�$
+�$
+�$
+�$
+DSP calibration data file does not exist
+DSP calibration data file does not exist
+DSP calibration data file does not exist
+DSP calibration data file does not exist
+DSP calibration data file does not exist
+CTRL_T: PowerUpAce::Exit
+DB query fail: 5
+Failed to save event log data
+PWRS_T: PCPowerup::Exit
+PWRS_T: PCReady::Enter
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Server started on 8084
+
+BIOError:R:BIO_do_accept
+Error in starting background communication
+Detached:8084
+Received Alarm event
+ALARM_T : ProcessAlarmEvent: ALARM_SC
+
+ALARM_T : AlarmEvent entered id:638 source:1 flags: RR1,LA1,GA1,CO0,CC0
+
+ALARM_T : count: 1 alarm(s)
+ALARM_T : EnterAlarmEvent: ALARM_SC
+�
+
+�yvAdded alarm id: 1592 to alarm logStarting Keypad Led Bezel Communication
+USB device is connected
+DB query fail: 1
+USB device data read failed
+Unregistered USB device connected.
+DB query fail: 5
+Update System Information data in database failed
+Keypad Led Bezel Connect failed
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Max count reached to start comm
+Internal error: Invalid state
+Error in starting communication
+Log Alarm generated...
+Clear comm stat counter
+Removed entry from m_PeerMap
+Waiting for start request
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Server started on 8084
+
+BIOError:R:BIO_do_accept
+Error in starting background communication
+Detached:8084
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Server started on 8082
+
+BIOError:R:BIO_do_accept
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Max count reached to start comm
+Internal error: Invalid state
+Error in starting communication
+Log Alarm generated...
+Clear comm stat counter
+Removed entry from m_PeerMap
+Waiting for start request
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Server started on 8084
+
+BIOError:R:BIO_do_accept
+Error in starting background communication
+Detached:8084
+Packet received from WDS Server
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Max count reached to start comm
+Internal error: Invalid state
+Error in starting communication
+Log Alarm generated...
+Clear comm stat counter
+Removed entry from m_PeerMap
+Waiting for start request
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Server started on 8084
+
+BIOError:R:BIO_do_accept
+Error in starting background communication
+Detached:8084
+Starting WDS...
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Max count reached to start comm
+Internal error: Invalid state
+Error in starting communication
+Log Alarm generated...
+Clear comm stat counter
+Removed entry from m_PeerMap
+Waiting for start request
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Server started on 8084
+
+BIOError:R:BIO_do_accept
+Error in starting background communication
+Detached:8084
+Server started on 8082
+
+BIOError:R:BIO_do_accept
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Packet received from WDS Server
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Max count reached to start comm
+Internal error: Invalid state
+Error in starting communication
+Log Alarm generated...
+Clear comm stat counter
+Removed entry from m_PeerMap
+Waiting for start request
+Error to Get the maximum power
+Server started on 8080
+
+BIOError:R:BIO_do_accept
+Error in starting communication
+Log Event generated...
+Server started on 8084
+
+BIOError:R:BIO_do_accept
+Error in starting background communication
+Detached:8084
+
